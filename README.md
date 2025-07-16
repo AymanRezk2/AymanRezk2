@@ -3,12 +3,22 @@
 🎓 **Computer Science Student** | 📊 **Data Science Track** | 🤖 **Future ML & AI Engineer**  
 💡 Passionate about **finance**, **human-centered solutions**, and **decision-making with data**
 
+
 ---
 
 ## 🚀 About Me
 
 I'm a student who's building his way into the world of Machine Learning & AI 💻.  
 I love working with **data**, especially when it involves **helping people**, **understanding behaviors**, or **making better financial decisions** 💰🧠.
+
+At my core, I genuinely enjoy connecting with people and making their lives better.  
+That’s why I’ve chosen to focus my learning and career on using Machine Learning and AI to **build solutions that serve people**, support communities, and create **positive real-world impact**.
+
+My goal isn’t just to become a great engineer, but to become one who **uses data and intelligence to help others live smarter, easier, and more fulfilling lives**.
+
+When I love what I do, I naturally strive for **greater accuracy**, **clarity**, and **impact** — because passion fuels precision. 🔍❤️
+
+
 
 ### Here's what keeps me excited:
 - 💬 Understanding how people think & act  
