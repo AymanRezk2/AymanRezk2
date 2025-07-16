@@ -1,47 +1,55 @@
-# 👋 Hi, I'm Ayman Rezk
+# 👋 Hey there, I'm Ayman Rezk!
 
-🎓 **Computer Science Graduate** | 🧠 **Aspiring ML & AI Engineer**  
-💼 Interested in **finance, people-centric solutions**, and **decision support systems**
-
----
-
-## 🔍 About Me
-
-I'm passionate about using Machine Learning and Data Science to solve real-world problems—especially those that involve people, money, and helping others make smarter decisions.
-
-I enjoy:
-- Understanding how people think and act
-- Analyzing financial and behavioral data
-- Building intelligent systems that assist, support, and serve people
-
-I also have experience in:
-- Data cleaning & preprocessing
-- Data analysis and visualization
-- Using Power BI to build insightful dashboards
-
-Currently, I'm focusing on developing my ML & AI skills through practical projects and continuous learning.
+🎓 **Computer Science Student** | 📊 **Data Science Track** | 🤖 **Future ML & AI Engineer**  
+💡 Passionate about **finance**, **human-centered solutions**, and **decision-making with data**
 
 ---
 
-## 💡 What I'm Working On
+## 🚀 About Me
 
-- 📱 **Phone Price Prediction** (Kaggle Project)  
-- 📊 **College ML Projects**: Classification & Regression  
-- 📈 **Coming Soon**: Projects in NLP, Financial Data, and AI for Decision Support
+I'm a student who's building his way into the world of Machine Learning & AI 💻.  
+I love working with **data**, especially when it involves **helping people**, **understanding behaviors**, or **making better financial decisions** 💰🧠.
+
+### Here's what keeps me excited:
+- 💬 Understanding how people think & act  
+- 📈 Working with financial and behavioral data  
+- 🧠 Building smart systems that help people make better choices  
+
+### My skills include:
+- 🧹 Data cleaning & preprocessing (my favorite starting point!)  
+- 📊 Data analysis & visualization  
+- 📊 Power BI dashboards  
+- 👨‍💻 Writing clean and readable ML code  
+
+I'm currently sharpening my skills through projects and learning new tools every week! 🌱
 
 ---
 
-## 🧰 Tech Stack
+## 💼 Projects I'm Working On
 
-- **Languages**: Python, SQL  
-- **Libraries**: pandas, NumPy, scikit-learn, matplotlib, seaborn  
-- **Tools**: Jupyter Notebook, Git, GitHub, Power BI  
-- **Currently Learning**: TensorFlow, PyTorch, Streamlit, Flask
+- 📱 **Phone Price Prediction** (Kaggle Project) – Supervised ML to predict mobile prices  
+- 🎓 **College ML Projects** – Classification, Regression, and more hands-on ML  
+- 📘 **Coming Soon** – NLP projects, financial insights, and mini AI tools
+
+Check my GitHub for live code and updates! 🔧
 
 ---
 
-## 📫 Connect With Me
+## 🛠️ Tech Toolbox
 
-- GitHub: [AymanRezk2](https://github.com/AymanRezk2)  
-- LinkedIn: [linkedin.com/in/aymanrezk](https://www.linkedin.com/in/aymanrezk)  
-- Email: [Add your email here]
+- **Languages**: Python 🐍, SQL 🔍  
+- **Libraries**: pandas 🐼, NumPy 🔢, scikit-learn 🎯, matplotlib & seaborn 📊  
+- **Tools**: Jupyter Notebook 📓, Git & GitHub 🌐, Power BI 📈  
+- **Learning Now**: TensorFlow 🔬, PyTorch 🔥, Streamlit 🌐, Flask ⚙️
+
+---
+
+## 🌐 Let's Connect
+
+- 🐙 GitHub: [AymanRezk2](https://github.com/AymanRezk2)  
+- 💼 LinkedIn: [linkedin.com/in/aymanrezk](https://www.linkedin.com/in/aymanrezk)  
+- 📧 Email: [Add your email here]
+
+---
+
+_Thanks for visiting my GitHub! Stay curious, keep building, and let's make smart things happen! 🚀_
