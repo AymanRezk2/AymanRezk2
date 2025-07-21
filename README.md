@@ -56,9 +56,10 @@ Check my GitHub for live code and updates! 🔧
 
 ## 🌐 Let's Connect
 
-- 🐙 GitHub: [AymanRezk2](https://github.com/AymanRezk2)  
-- 💼 LinkedIn: [linkedin.com/in/aymanrezk](https://www.linkedin.com/in/aymanrezk)  
-- 📧 Email: [Add your email here]
+- 🐙 **GitHub**: [AymanRezk2](https://github.com/AymanRezk2)  
+- 💼 **LinkedIn**: [Ayman Rezk](https://www.linkedin.com/in/aymanrezk)  
+- 📱 **TikTok**: [@ayman_rezk.ai](https://www.tiktok.com/@ayman_rezk.ai)
+
 
 ---
 
