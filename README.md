@@ -54,7 +54,7 @@ Currently **leveling up** with new projects & tools every week! 🌱
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AymanRezk2&show_icons=true&theme=tokyonight" alt="Ayman's GitHub stats" />
   <br>
-  <img src="https://streak-stats.demolab.com/?user=AymanRezk2&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AymanRezk2&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
